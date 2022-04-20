@@ -22,4 +22,4 @@ The example script has an additional dependency on matplotlib and cartopy for th
 
  
 
-Full usage documentation is yet to be created. Bugs and errors should be sent to the author. This code has been tested and is confirmed as working on the linux system of NCI's Gadi supercomputer, as well as a local workstation running Windows 10.
+Full usage documentation is yet to be created. This code has been tested and is confirmed as working on the linux system of NCI's Gadi supercomputer, as well as a local workstation running Windows 10.
