@@ -12,10 +12,10 @@ This code is based on the detection method described in Berry et al. (2011), whi
 
 The module itself has the following dependencies:
 
-xarray
-numpy
-scipy
-geopy
+- xarray
+- numpy
+- scipy
+- geopy
  
 
 The example script has an additional dependency on matplotlib and cartopy for the generation of a plot.
